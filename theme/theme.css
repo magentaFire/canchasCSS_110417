@@ -1,0 +1,120 @@
+.rectangulo1 {
+  width: 250px;
+  height: 250px;
+  background: #004d00;
+  border: 3px solid #ddd;
+  position: absolute; top: 50px; left: 50px;
+}
+
+
+.porteria1 {
+  width: 70px;
+  height: 150px;
+  position: absolute; top: 45px; left: -3px;
+  border: 3px solid #ddd;
+}
+
+.medioCirculo1 {
+  width: 30px;
+  height: 60px;
+  border: 3px solid #ddd;
+  -webkit-border-radius: 100px 0 0 100px;
+  border-radius: 100px 0 0 100px;
+  position: relative; top: 90px; left: 216px;
+}
+
+.medioCirculoP1 {
+  width: 30px;
+  height: 60px;
+  border: 3px solid #ddd;
+  -webkit-border-radius: 0 100px 100px 0;
+  border-radius: 0 100px 100px 0;
+  position: absolute; top: 90px; left: 70px;
+}
+
+.rectangulo2 {
+  width: 250px;
+  height: 250px;
+  background: #004d00 ;
+  border: 3px solid #ddd;
+  position: absolute; top: 50px; left: 300px;
+}
+
+.porteria2 {
+  width: 70px;
+  height: 150px;
+  position: absolute; top: 45px; left: 177px;
+  border: 3px solid #ddd;
+}
+
+.medioCirculo2 {
+  width: 30px;
+  height: 60px;
+  border: 3px solid #ddd;
+  -webkit-border-radius: 0 100px 100px 0;
+  border-radius: 0 100px 100px 0;
+  position: relative; top: 90px; left: -3px;
+}
+
+.medioCirculoP2 {
+  width: 30px;
+  height: 60px;
+  border: 3px solid #ddd;
+  -webkit-border-radius: 100px 0 0 100px;
+  border-radius: 100px 0 0 100px;
+  position: absolute; top: 90px; left: 144px;
+}
+
+.basketBase {
+  width: 500px;
+  height: 250px;
+  background: #0b6a88;
+  border: 3px solid #ff0192;
+  position: absolute; top: 50px; left: 50px;
+}
+
+.basketTrapecio1 {
+  width: 0px;
+  height: 70px;
+  border-right: 25px solid transparent;
+  border-left: 110px solid #ff0192;
+  border-bottom: 25px solid transparent;
+  border-top: 25px solid transparent;
+  position: absolute; top: 112px; left: 50px;
+}
+
+.basketTrapecio2 {
+  width: 0px;
+  height: 70px;
+  border-right: 110px solid #ff0192;
+  border-left: 25px solid transparent;
+  border-bottom: 25px solid transparent;
+  border-top: 25px solid transparent;
+  position: absolute; top: 112px; left: 420px;
+}
+
+.basketLineaMedia{
+  width: 0px;
+  height: 250px;
+  border: 2px solid #ff0192;
+  position: absolute; top: 50px; left: 300px;
+}
+
+.basketCirculo1 {
+  width: 32px;
+  height: 65px;
+  border: 3px solid #ff0192;
+  -webkit-border-radius: 0 100px 100px 0;
+  border-radius: 0 100px 100px 0;
+  position: absolute; top: 137px; left: 157px;
+}
+.basketCirculo2 {
+
+}
+.basketCirculo3 {
+
+}
+
+
+<div class="basketCirculoG1"></div>
+<div class="basketCirculoG2"></div>

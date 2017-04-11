@@ -108,11 +108,22 @@
   border-radius: 0 100px 100px 0;
   position: absolute; top: 137px; left: 157px;
 }
+
 .basketCirculo2 {
-
+  width: 32px;
+  height: 65px;
+  border: 3px solid #ff0192;
+  -webkit-border-radius: 100px 0 0 100px;
+  border-radius: 100px 0 0 100px;
+  position: absolute; top: 137px; left: 413px;
 }
-.basketCirculo3 {
 
+.basketCirculo3 {
+  width: 65px;
+  height: 65px;
+  -webkit-border-radius: 50%;
+  border: 3px solid #ff0192;
+  position: absolute; top: 137px; left: 265px;
 }
 
 
